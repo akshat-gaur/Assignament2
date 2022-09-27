@@ -1,1 +1,1 @@
-# Assignament2
+Assignment 2 for web technology
